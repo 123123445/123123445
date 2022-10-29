@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-portfolio>> https://www.notion.so/Jeong-Min-ddac88d766094fc489f6af9baf6e755e
+portfolio>> https://www.notion.so/Jeong-Min-ddac88d766094fc489f6af9baf6e755e<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdalstltm2&langs_count=8)](https://github.com/깃허브아이디/github-readme-stats)
